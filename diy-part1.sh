@@ -30,7 +30,7 @@ ln -sf ../../../feeds/luci/applications/luci-app-tencentddns ./package/feeds/luc
 # 完整克隆 lua-maxminddb 仓库
 git clone https://github.com/jerrykuku/lua-maxminddb.git feeds/luci/applications/lua-maxminddb
 # 完整克隆 luci-app-vssr 仓库
-git clone https://github.com/super27035/luci-app-vssr.git feeds/luci/applications/luci-app-vssr
+git clone https://github.com/immortalwrt-collections/luci-app-vssr.git feeds/luci/applications/luci-app-vssr
 # git clone https://github.com/MilesPoupart/luci-app-vssr.git feeds/luci/applications/luci-app-vssr
 # -------------- #
 
